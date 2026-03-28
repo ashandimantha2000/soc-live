@@ -1,11 +1,12 @@
 @import 'tailwindcss';
 
 @theme {
-  --color-accent: #2563eb;
-  --color-accent-light: #3b82f6;
-  --color-marked: #dcfce7;
-  --color-marked-border: #22c55e;
-  --color-bingo: #fbbf24;
+  /* Cyberpunk Neon theme tokens (Tailwind v4 CSS-first) */
+  --color-accent: #a855f7; /* neon purple */
+  --color-accent-light: #c084fc;
+  --color-marked: #a3e635; /* neon lime */
+  --color-marked-border: #84cc16;
+  --color-bingo: #facc15; /* neon yellow */
 }
 
 html,
